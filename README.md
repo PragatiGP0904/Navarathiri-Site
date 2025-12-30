@@ -19,10 +19,3 @@ Users can capture their photos, apply AI-powered cartoon effects, get traditiona
 - **Animations**: CSS animations & JavaScript effects  
 
 ---
-
-## 🚀 Getting Started  
-
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-username/navaratri-app.git
-   cd navaratri-app
